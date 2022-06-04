@@ -24,4 +24,4 @@ accessibility of managing and creating files.
 
 
 
-### [Link to Javascript Code](https://github.com/noahbtsta/CIT281_p1/code.git)
+### [Link to Javascript Code](code/)
