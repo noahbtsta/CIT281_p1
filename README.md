@@ -1,10 +1,10 @@
-## Description
+# Description
 
 In this project I learned how access my operating systems command line interface (CLI). 
 Using the CLI is a very useful technical skill to have becouse of its convinience and 
 accessibility of managing and creating files. 
 
-# Command line - Folders
+### Command line - Folders
 The first thing we did was create a folder structure that displyed: name, date, images, and js
 ![Image](src)
 
