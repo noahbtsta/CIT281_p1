@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Description
+
+In this project I learned how access my operating systems command line interface (CLI). 
+Using the CLI is a very useful technical skill to have becouse of its convinience and 
+accessibility of managing and creating files. 
+
+# Command line - Folders
+The first thing we did was create a folder structure that displyed: name, date, images, and js
+![Image](src)
+
 
 You can use the [editor on GitHub](https://github.com/noahbtsta/CIT281_p1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
