@@ -24,4 +24,6 @@ accessibility of managing and creating files.
 
 
 
-### [Link to Javascript Code]([CIT281_p1/code/](https://github.com/noahbtsta/CIT281_p1.git))
+## To access code for project 
+1. Scroll to the top and press "View on Github"
+2. Click on the code folder in repo
