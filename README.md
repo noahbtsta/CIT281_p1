@@ -1,4 +1,4 @@
-# Description
+# Project 1
 
 In this project I learned how access my operating systems command line interface (CLI). 
 Using the CLI is a very useful technical skill to have becouse of its convinience and 
