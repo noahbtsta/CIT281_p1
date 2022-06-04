@@ -6,11 +6,11 @@ accessibility of managing and creating files.
 
 ### Skills Used in Project
 - Used the command line to create a folder structure
-![](images/p1-folder.png)
+![im](images/p1-folder.png)
 - Used ping to determine if a specific internet location is available
-![](images/p1-break.png)
+![im](images/p1-break.png)
 - Command line prompt to indicate the quantity of data packets to send 
-![](images/p1-ping.png)
+![im](images/p1-ping.png)
 - Created a javascript program on Visual Studio Code
 - Created code that outputed random letters with a length between 5-25
 
