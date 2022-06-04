@@ -18,7 +18,9 @@ accessibility of managing and creating files.
 
 
 - Created a javascript program on Visual Studio Code
+- Used array in Javascript Program to output the following date
 - Created code that outputed random letters with a length between 5-25
+
 
 
 
